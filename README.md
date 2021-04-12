@@ -3,6 +3,6 @@
 <i class="fa fa-check-square-o" aria-hidden="true"> Currently imporving my skills.</i><br>
 -  I’m looking for Software Engineer role<br>
 - 📫 How to reach me<br>
- <a href="https://www.linkedin.com/in/monika-singh-83474b166/" type = [LinkedIn])</a><br>
+ <h3[LinkedIn] a href="https://www.linkedin.com/in/monika-singh-83474b166/" </a>></h3><br>
 <a href ="https://monikasingh.netlify.app" type =[Portfolio])</a>
 
