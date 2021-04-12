@@ -3,6 +3,6 @@
 <i class="fa fa-check-square-o" aria-hidden="true"> Currently imporving my skills.</i><br>
 -  I’m looking for Software Engineer role<br>
 - 📫 How to reach me<br>
- <i class="fa fa-check-square-o" aria-hidden="true" href ="https://www.linkedin.com/in/monika-singh-83474b166/"></i><br>
- <i class="fa fa-hand-o-right" aria-hidden="true">(https://monikasingh.netlify.app)</i>
+ <i class="fa fa-check-square-o" aria-hidden="true"></i>< (https://www.linkedin.com/in/monika-singh-83474b166/)>br>
+ <i class="fa fa-hand-o-right" aria-hidden="true"></i>(https://monikasingh.netlify.app)
 
